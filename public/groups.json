@@ -660,6 +660,9 @@
       "name": "International (Language Specific)",
       "id": "international",
       "files": [
+         {
+          "path": "left_cmd / right_cmd / left_option for  EN/CH/JA.json"
+        },
         {
           "path": "json/caps_lock_toggle_chinese_english.json",
           "extra_description_path": "extra_descriptions/caps_lock_toggle_chinese_english.html"
